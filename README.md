@@ -1,2 +1,2 @@
-# 1С-_developer_2013_questions
+# 1C-_developer_2013_questions
 Разбор вопросов по учебнику
